@@ -18,6 +18,7 @@
           # pkgs.nodePackages.typescript
           # pkgs.nodePackages.eslint
           pkgs.nodePackages.prettier
+          pkgs.nodePackages.prisma
           pkgs.nodePackages.typescript-language-server
         ];
       };
